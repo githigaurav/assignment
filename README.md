@@ -1,6 +1,5 @@
 ## React Assignment
-```bash
     📦src
-        ┣ 📂assignment
-        ┃ ┗ 📜Assignment.md
-```
+    ┣ 📂assignment
+    ┃ ┣ 📜Assignment.md
+    ┃ ┗ 📜React Assignment 1.md  (7 December 2023)
