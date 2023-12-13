@@ -1,4 +1,4 @@
-# React Assignment 
+# React Assignment 1
 ### What is virtual DOM ?
 The virtual DOM is a prgramming concept where an ideal or vitual representation of a UI is kept in memory and synced with real DOM by a library such as React & Vue. In other word we can say, It's a light weight copy of real DOM.  After manipulationg VDOM it only re-renders changed elements which make updates light weight and make performance fast and optomised rather than directly manuplating real DOM. |
 

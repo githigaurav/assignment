@@ -1,4 +1,4 @@
-# React Assignment  1 
+# React Assignment  2 
 ### What is Single Page Application (SPA) ?
 SPA stands for Single Page Application, which loads only a single web document and then updates the body content of that single document. It allows us to use a website without reloading the entire page from the server.
 

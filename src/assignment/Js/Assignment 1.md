@@ -1,4 +1,4 @@
-# React Assignment  2 
+# Js Assignment 1
 ### What are the different data types present in javascript?
 String.
 Number.
