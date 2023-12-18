@@ -1,4 +1,4 @@
-# Js Assignment 1
+# Js Assignment 3
 ### Write the Code for all Data types
 String.
 ```
